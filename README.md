@@ -36,7 +36,7 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
    You can use the [GIM](https://github.com/xuelunshen/gim) method for background alignment.
 
 3. Organize the dataset structure as follows:
-   '''
+   ```
      IRSTD-UAV/
      ├── images/
      │ ├── 1/
@@ -74,7 +74,7 @@ Visual comparison of results from SOTA methods and TDCNet on the IRSTD-UAV and I
      ├── val.txt
      ├── train_coco.json
      └── val_coco.json
-   '''
+   ```
 ## How To Train
 
 1. **Prepare the environment and dataset**
