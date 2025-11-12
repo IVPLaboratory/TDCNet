@@ -163,7 +163,7 @@ If you have any question, please contact: houzhangfang@xidian.edu.cn,
 Copyright &copy; Xidian University.
 
 ## Acknowledgments
-Some of the code is based on [STMENet](https://github.com/UESTC-nnLab/STME). Thanks for their excellent work!
+Some of the code is based on [STMENet](https://github.com/UESTC-nnLab/STME) and [Video Swin Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer). Thanks for their excellent work!
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
