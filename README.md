@@ -1,7 +1,7 @@
 # TDCNet
 Official repository of the AAAI 2026 paper "Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection".
 
-## Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection  
+## Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection [[PDF](https://arxiv.org/abs/2511.09352)]  
 Authors: Shukai Guo, Houzhang Fang, Qiuhuan Chen, Yi Chang; Luxin Yan
 
 ## Abstract
