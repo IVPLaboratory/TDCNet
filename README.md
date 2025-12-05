@@ -106,7 +106,7 @@ The testing results will be saved in the ./results folder.
 
 ## Citation
 If you find our work and our dataset IRSTD-UAV useful for your research, please consider citing our paper:
-```
+```bibtex
 @inproceedings{2026AAAI_TDCNet,
   title     = {Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection},
   author    = {Houzhang Fang and Shukai Guo and Qiuhuan Chen and Yi Chang and Luxin Yan},
@@ -117,7 +117,7 @@ If you find our work and our dataset IRSTD-UAV useful for your research, please 
 ```
 
 In additoin to the above paper, please also consider citing the following references. Thank you!
-```
+```bibtex
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
